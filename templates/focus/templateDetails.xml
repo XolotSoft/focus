@@ -38,6 +38,7 @@
 		<position>breadcrumbs</position>
 		<position>largebar</position>
 		<position>sidebar</position>
+		<position>contenido</position>
 		<position>debug</position>
 	</positions>
 	
