@@ -34,11 +34,13 @@
 	</files>
 	
 	<positions><!-- define the positions for modules here -->
+		<position>header</position>
 		<position>navbar</position>
 		<position>breadcrumbs</position>
 		<position>largebar</position>
 		<position>sidebar</position>
 		<position>contenido</position>
+		<position>footer</position>
 		<position>debug</position>
 	</positions>
 	
